@@ -1,0 +1,9 @@
+C:\Users\ray\Source\Repos\DinD\DInvoke\DInvoke\obj\Debug\DInvoke.csproj.CoreCompileInputs.cache
+C:\Users\ray\Source\Repos\DinD\DInvoke\DInvoke\bin\Debug\DiD.exe
+C:\Users\ray\Source\Repos\DinD\DInvoke\DInvoke\bin\Debug\DiD.pdb
+C:\Users\ray\Source\Repos\DinD\DInvoke\DInvoke\obj\Debug\DiD.exe
+C:\Users\ray\Source\Repos\DinD\DInvoke\DInvoke\obj\Debug\DiD.pdb
+C:\Users\Ray\Desktop\OSEP EXAM\pHISH\XOR\DinD\DinD\DInvoke\DInvoke\bin\Debug\DiD.exe
+C:\Users\Ray\Desktop\OSEP EXAM\pHISH\XOR\DinD\DinD\DInvoke\DInvoke\bin\Debug\DiD.pdb
+C:\Users\Ray\Desktop\OSEP EXAM\pHISH\XOR\DinD\DinD\DInvoke\DInvoke\obj\Debug\DiD.exe
+C:\Users\Ray\Desktop\OSEP EXAM\pHISH\XOR\DinD\DinD\DInvoke\DInvoke\obj\Debug\DiD.pdb
